@@ -12,4 +12,4 @@ POST - Creates a new record that gets appended to the database.
 ![](image/api_get.PNG)
 
 #### Send a POST request
-![](image/api_get.PNG)
+![](image/api_post.PNG)
